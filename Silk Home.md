@@ -3,7 +3,7 @@
 Silk Home is a concept that emphasizes the creation of a comfortable and welcoming environment in a house through the use of beautiful decor and an atmosphere that evokes relaxation and ease. 
 Silk Corp aims to provide comprehensive guidance to its customers in achieving an alluring and cozy home interior with a variety of design components and methodologies.
 
-(360 character count)
+(360 character count).
 
 
 -------
