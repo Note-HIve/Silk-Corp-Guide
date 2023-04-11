@@ -6,7 +6,10 @@ In the context of the Silk Corp Franchise Guide, incorporating Silk Tech into fr
 
 By integrating Silk Tech into franchise operations, franchisees can create a more engaging customer experience, promote social responsibility, and ultimately increase customer satisfaction and brand loyalty. This can lead to a more successful franchise business overall, as customers are more likely to return and recommend the business to others.
 
+References
 
+* https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md#silk-tech
+* https://github.com/NoteHive/Silk-Corp-Guide/tree/main#silk-yacht-anchor
 --------
 
 summarize 
