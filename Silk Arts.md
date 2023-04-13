@@ -17,6 +17,8 @@ Silk Arts are a variety of creative expressions, cultural practices, and crafts 
 
 (365 character count)
 
-Reference
+Reference link
+
 https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md
+
 https://github.com/NoteHive/Silk-Corp-Guide
