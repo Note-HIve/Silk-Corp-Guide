@@ -17,6 +17,11 @@ Silk Arts are a variety of creative expressions, cultural practices, and crafts 
 
 (365 character count)
 
+
+A wide range of artistic forms, cultural customs, and handicrafts are referred to as "Silk Arts," which have their roots in the social and historical contexts of the Silk Road. Soap-making, embroidery, music, and dance are among them. Along with their social and economic benefits to the area in which they are practiced, they are also valued for their aesthetic and artistic merits.  (383 character count)
+
+
+
 Reference link
 
 https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md
