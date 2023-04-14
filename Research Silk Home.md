@@ -13,3 +13,7 @@ Silk Home is a concept that offers a range of services like childcare, gardening
 
 
 (365 character count)
+
+In order to create a cozy and relaxing home environment, Silk Home is a concept that offers a variety of services like childcare, gardening, hospitality, interior design, kitchen design, and decorating consultancy. The Silk Corp. is applying design principles and techniques that will help to maintain a dependable and high-quality Silk Home experience.
+
+(353  character count)
