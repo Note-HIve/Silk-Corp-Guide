@@ -12,8 +12,8 @@ https://github.com/NoteHive/Silk-Corp-Guide/tree/main#silk-yacht-anchor
 
 (Summarize. 341 character count)
 
-Silk Cafe is a versatile food establishment that offers both catering services and culinary arts. It specializes in coffee and tea, as well as signature baked goods and ice creams, and provides catering services for events and occasions. Their catering menu is well-planned and executed with attention to detail and high-quality ingredients.
+Silk Cafe is a versatile food establishment that offers both catering services and culinary arts. It specializes in services in the food area in culinary arts and provides catering services for events and occasions like baptism, wedding and birthdays. Their catering menu is well-planned and executed with attention to detail and high-quality ingredients.
 
 
-Our versatile food establishment, "Silk Cafe," offers catering services and culinary arts. It specializes in coffee, tea, signature baked goods, and ice creams, and provides catering services for events and occasions. Their catering menu has been meticulously planned out and fulfilled with attention to detail and high-quality ingredients.
+Our versatile food establishment, Silk Cafe, offers catering services and culinary arts. It specializes in services in the food area in culinary arts and provides catering services for events and occasions like baptism, wedding and birthdays. Their catering menu has been meticulously planned out and fulfilled with attention to detail and high-quality ingredients.
 (340 character count)
