@@ -74,3 +74,5 @@ Family and Consumer Sciences programs often incorporate practical skills, hands-
 Professionals in Family and Consumer Sciences may work in various settings, including educational institutions (teaching at different levels), extension services, community organizations, government agencies, businesses (e.g., food industry, textile companies, hospitality), and research institutions.
 
 Overall, Family and Consumer Sciences aims to improve the quality of life for individuals and families by integrating knowledge from various disciplines and applying it to real-world situations and challenges.
+
+Source: [EcoVillage](https://earth.org/ecovillages-from-around-the-world-for-sustainable-living/)
