@@ -34,3 +34,8 @@ people & projects can have multiple uses; emphasizes creating culture through 'v
 
 Join us at ASTRA where science meets strategy technology drives innovation reasoning powers decision-making automation shapes the future!
 For more information about our programs admissions process or partnership opportunities please visit [University Website] or contact [University Contact Information].
+## Audience:
+- Tech Leaders
+- Tech Entrepreneurs
+- Enterprise Engineering Managers (Leading 100+ People)
+- Government Engineering Managers (Leading 100+ People)
