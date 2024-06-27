@@ -21,7 +21,7 @@
    * Ecological and social foundations of SILK settlements
    * Integrating personal, family, and community well-being
 8. **SILK's Global Network of Sustainable Settlements**
-   * Connecting SILK communities worldwide
+   * Connecting SILK community worldwide
    * Sharing best practices and resources across the network
 
 #### SILK Life Curriculum
