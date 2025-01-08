@@ -63,3 +63,10 @@ A robust Monitoring, Evaluation, and Learning (MEL) plan will be integral to our
 -   Documentation of outcomes and lessons learned, which will be shared on the Homestead Network website to promote transparency and encourage replication of our model by others.
 
 This structured approach will ensure that our initiative not only succeeds in its objectives but also contributes valuable knowledge to the fields of sustainable agriculture and community education.
+
+---
+
+Other Links to Read:
+
+- https://github.com/NoteHive/Silk-Corp-Guide/blob/main/Careers/On-Site%20Community%20Developer.md
+- https://github.com/NoteHive/Silk-Corp-Guide/blob/main/Careers/Welcome%20to%20SILK%20Village.md
